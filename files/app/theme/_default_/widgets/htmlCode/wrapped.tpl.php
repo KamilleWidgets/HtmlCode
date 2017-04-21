@@ -1,1 +1,0 @@
-<div class="widget widget-htmlcode">{html}</div>
